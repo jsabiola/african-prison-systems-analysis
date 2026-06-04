@@ -1,10 +1,21 @@
 # African Prison Systems Analysis
 ## A Power BI Dashboard | 20 Countries | 2000–2025
 
+### Page 1 — Overview
 ![Dashboard Overview](Overiew.png)
+
+### Page 2 — Gender Analysis
 ![Dashboard Overview](Gender Analysis.png)
+
+### Page 3 — The Remand Crisis
 ![Dashboard Overview](The Remand Crisis.png)
-![Dashboard Overview](Data Governance.png)
+
+### Page 4 — Overcrowding and Trends
+![Overcrowding and Trends](Overcrowding and Trends.png)
+
+### Page 5 — Data Governance
+![Data Governance](data_governance.png)
+
 
 ---
 
