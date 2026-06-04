@@ -2,16 +2,16 @@
 ## A Power BI Dashboard | 20 Countries | 2000–2025
 
 ### Page 1 — Overview
-![Dashboard Overview](Overiew.png)
+![Dashboard Overview](overiew.png)
 
 ### Page 2 — Gender Analysis
-![Dashboard Overview](Gender Analysis.png)
+![Dashboard Overview](gender_analysis.png)
 
 ### Page 3 — The Remand Crisis
-![Dashboard Overview](The Remand Crisis.png)
+![Dashboard Overview](the-remand_crisis.png)
 
 ### Page 4 — Overcrowding and Trends
-![Overcrowding and Trends](Overcrowding and Trends.png)
+![Overcrowding and Trends](overcrowding_and_trends.png)
 
 ### Page 5 — Data Governance
 ![Data Governance](data_governance.png)
